@@ -4,8 +4,16 @@
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/from-referrer/)
 [![License Apache2](https://img.shields.io/hexpm/l/plug.svg)](http://www.apache.org/licenses/LICENSE-2.0)
 [![Discord](https://img.shields.io/discord/685554030159593522)](https://discord.com/widget?id=685554030159593522&theme=dark)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/284e86ef-138f-4660-8cb3-bb29d9c6098c/deploy-status)](https://app.netlify.com/sites/netflix-clone-astra/deploys)
+
+<br>
+
+**Live Demo Site: https://netflix-clone-astra.netlify.app/**
+
+<br>
 
 *50 minutes, Intermediate, [Start Building](#1-login-or-register-to-astradb-and-create-database)*
+
 
 A simple **ReactJS** Netflix homepage clone running on *Astra DB* that leverages a GraphQL API with *paging* and *infinite scrolling.* The materials has been built with the collaboration of [Ania Kubow](https://www.youtube.com/channel/UC5DNytAJ6_FISueUfzZCVsw) and Datastax developer advocates team.
 
